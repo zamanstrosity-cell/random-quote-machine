@@ -1,6 +1,6 @@
 {
   "name": "random-quotes",
-  "homepage": "https://github.com/zamanstrosity-cell/random-quote-machine",
+  "homepage": "https://zamanstrosity-cell.github.io/random-quote-machine/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

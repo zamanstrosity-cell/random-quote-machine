@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zamanstrosity-cell/random-quote-machine/static/css/main.e69d2166.chunk.css",
+    "main.js": "/zamanstrosity-cell/random-quote-machine/static/js/main.65d3ce71.chunk.js",
+    "main.js.map": "/zamanstrosity-cell/random-quote-machine/static/js/main.65d3ce71.chunk.js.map",
+    "runtime-main.js": "/zamanstrosity-cell/random-quote-machine/static/js/runtime-main.68eaed93.js",
+    "runtime-main.js.map": "/zamanstrosity-cell/random-quote-machine/static/js/runtime-main.68eaed93.js.map",
+    "static/js/2.01a93d95.chunk.js": "/zamanstrosity-cell/random-quote-machine/static/js/2.01a93d95.chunk.js",
+    "static/js/2.01a93d95.chunk.js.map": "/zamanstrosity-cell/random-quote-machine/static/js/2.01a93d95.chunk.js.map",
+    "index.html": "/zamanstrosity-cell/random-quote-machine/index.html",
+    "precache-manifest.17e3c2cdc7234ecf2fbbf2ec38afdb9c.js": "/zamanstrosity-cell/random-quote-machine/precache-manifest.17e3c2cdc7234ecf2fbbf2ec38afdb9c.js",
+    "service-worker.js": "/zamanstrosity-cell/random-quote-machine/service-worker.js",
+    "static/css/main.e69d2166.chunk.css.map": "/zamanstrosity-cell/random-quote-machine/static/css/main.e69d2166.chunk.css.map",
+    "static/js/2.01a93d95.chunk.js.LICENSE.txt": "/zamanstrosity-cell/random-quote-machine/static/js/2.01a93d95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68eaed93.js",
+    "static/js/2.01a93d95.chunk.js",
+    "static/css/main.e69d2166.chunk.css",
+    "static/js/main.65d3ce71.chunk.js"
+  ]
+}
